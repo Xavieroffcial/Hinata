@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️One', true],
-  ['6282195322106', '️Two', true],
-  ['6282195322106', '️Three', true],
-  ['6282195322106', '️Four', true],
-  ['6282195322106', '️Five', true],
-  ['6282195322106', '️Six', true],
-  ['6282195322106', '️Seven', true],
-  ['6282195322106', '️Eight', true],
-  ['6282195322106', '️Nine', true],
-  ['6282195322106', '️Teen', true]
+  ['6283862006229', '️One', true],
+  ['6283862006229', '️Two', true],
+  ['6283862006229', '️Three', true],
+  ['6283862006229', '️Four', true],
+  ['6283862006229', '️Five', true],
+  ['6283862006229', '️Six', true],
+  ['6283862006229', '️Seven', true],
+  ['6283862006229', '️Eight', true],
+  ['6283862006229', '️Nine', true],
+  ['6283862006229', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -84,15 +84,15 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.nomorbot = 'ga ada'
+global.nomorown = '6283862006229'
+global.namebot = 'ғɪʟᴏ ʙᴏᴛ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 ʜɪɴᴀᴛᴀ-ʙᴏᴛ あ⁩ 」'
+global.wm = '                「 ғɪʟᴏ ʙᴏᴛ あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.wm3 = '⫹⫺ ғɪʟᴏ ʙᴏᴛ'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -387,9 +387,9 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/notifikasi_pemberitahuan'
-global.sgh = 'https://www.github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI'
+global.sig = 'https://www.instagram.com/skyxmoonreal'
+global.sgh = 'https://www.github.com/XavierOffcial'
+global.sg? = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 global.sdc = 'https://www.discord.com/wudysoft'
 global.snh = 'https://www.tiktok.com/@upload_file'
 global.sfb = 'https://www.facebook.com/'
@@ -434,9 +434,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = 'sᴋʏxᴍᴏᴏɴᴏғғᴄ\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁'
+global.author = 'sᴋʏxᴍᴏᴏɴᴏғғᴄ'
 global.multiplier = 10
 
 /*Pesan*/
@@ -449,16 +449,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
-global.dana = '0887435373103'
-global.pulsa = '082195322106'
+global.dana = '083862006229'
+global.pulsa = '083862006229'
 global.trakteer = 'https://trakteer.id/wudysoft'
 global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
+global.gopay = '083862006229'
+global.pdana = '085962734007'
+global.povo = '083862006229'
+global.pgopay = '083862006229'
+global.ppulsa = '083862006229'
+global.ppulsa2 = '083862006229'
 global.psaweria = 'https://saweria.com/Wudysoft'
 
 /*Emoji*/
