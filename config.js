@@ -389,7 +389,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 /*Link*/
 global.sig = 'https://www.instagram.com/skyxmoonreal'
 global.sgh = 'https://www.github.com/XavierOffcial'
-global.sg? = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
+global.sg  = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 global.sdc = 'https://www.discord.com/wudysoft'
 global.snh = 'https://www.tiktok.com/@upload_file'
 global.sfb = 'https://www.facebook.com/'
