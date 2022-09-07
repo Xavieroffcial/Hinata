@@ -434,7 +434,7 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = 'sᴋʏxᴍᴏᴏɴᴏғғᴄ\n⫹⫺ Whatsapp\nwa.me/${global.nomorbot}`
+global.stickauth = 'sᴋʏxᴍᴏᴏɴᴏғғᴄ`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = 'sᴋʏxᴍᴏᴏɴᴏғғᴄ'
 global.multiplier = 10
