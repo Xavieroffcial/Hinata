@@ -84,7 +84,7 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = 'ga ada'
+global.nomorbot = '6283862006229'
 global.nomorown = '6283862006229'
 global.namebot = 'ғɪʟᴏ ʙᴏᴛ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
